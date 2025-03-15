@@ -1,0 +1,59 @@
+body{
+    background-color: #c4a484 ; 
+    margin-left: -3%;
+}
+
+h1{
+    margin-left: 65%;
+    margin-top: 7%;
+    font-family: newsreader;
+}
+
+.about {
+    margin-left: 65%;
+    margin-top: -2%;
+    font-family: newsreader ;
+    color: white;
+}
+
+.btn{
+
+    display: inline-block;
+    margin-left: 70%;
+    background:black;
+    color: white;
+    padding: 15px 35px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Newsreader';
+    font-weight: 100;
+    text-decoration: none;
+}
+
+.images {
+    position: relative;
+}
+
+.img1 {
+    width: 540px;
+    height: 500px;
+   margin-left: 16%;
+   margin-top: -35%;
+}
+    
+.img2 {
+   position: absolute;
+   width: 190px;
+   height: 190px;
+   margin-left:-46% ;
+   margin-top: -30%;
+}
+
+.img3 {
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    margin-top: -8%;
+    margin-left: -7%;
+}
+    
