@@ -20,11 +20,11 @@ body{
     width: 600px;
 }
 .mode1{
-  background-image: url(/img/ph1.jpg);
+  background-image: url(/ph1.jpg);
   background-size: 100% 100%;
 }
 .mode2{
-    background-image: url(/img/ph2.jpg);
+    background-image: url(/ph2.jpg);
     background-size: 100% 100% ;
     background-position: top;
 }
@@ -33,15 +33,15 @@ body{
     background-size: 100% 100%;
 }
 .mode4{
-   background-image: url(/img/ph1.jpg);
+   background-image: url(/ph1.jpg);
    background-size: 100% 100%;
 }
 .mode5 {
-    background-image: url(/img/ph3.jpg);
+    background-image: url(/ph3.jpg);
     background-size: 100% 100%;
 }
 .mode6 {
-    background-image: url(/img/ph4.jpg);
+    background-image: url(/ph4.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -184,19 +184,19 @@ body{
     text-decoration: none;
 }
 .pic1{
-    background-image: url(/img/pic1.jpg);
+    background-image: url(/pic1.jpg);
     background-size: cover;
     background-position: center;
     grid-row: 1/3;
 }
 .pic2{
-    background-image: url(/img/pic2.jpg);
+    background-image: url(/pic2.jpg);
     background-size: cover;
     background-position: center;
     grid-row: 1/3;
 }
 .pic3{
-    background-image: url(/img/pic3.jpg);
+    background-image: url(/pic3.jpg);
     background-size: cover;
     background-position: center;
     grid-row: 1/3;
